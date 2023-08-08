@@ -1,14 +1,14 @@
 # My Portfolio Website
-
 Welcome to my portfolio website, created using HTML, CSS, and JavaScript. This website serves as a showcase of my projects, skills, and achievements.
 
-# Screenshots of the portfolio website
-![Screenshot (208)](https://github.com/iamsanjeebandas/Portoflio-Website-/assets/118650187/23ef2c65-c8bc-4abd-b51b-115455e19cae)
-![Screenshot (207)](https://github.com/iamsanjeebandas/Portoflio-Website-/assets/118650187/87cdb8a0-c27d-4063-9668-2934cecada35)
-![Screenshot (206)](https://github.com/iamsanjeebandas/Portoflio-Website-/assets/118650187/1fa40c0d-e002-4138-a2b8-96ea69e4c67d)
 
+# Screenshots of the portfolio website
+![Screenshot (208)](https://github.com/iamsanjeebandas/Portoflio-Website-/assets/118650187/7317caf2-d0f8-4870-a968-3f0d17e2cd88)
+![Uploading Screenshot (207).png…]()
+![Screenshot (206)](https://github.com/iamsanjeebandas/Portoflio-Website-/assets/118650187/d8e50bd9-3fbd-4ae4-8bd0-e22b3bc435e8)
 ![Uploading Screenshot (205).png…]()
 ![Uploading Screenshot (204).png…]()
+
 
 
 ## Features
